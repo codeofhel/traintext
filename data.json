@@ -1,0 +1,22 @@
+{
+    "1": {
+        "nome": "Hélio",
+        "idade": 38,
+        "nacionalidade": "Portuguesa"
+    },
+    "2": {
+        "nome": "José",
+        "idade": 54,
+        "nacionalidade": "Portuguesa"
+    },
+    "3": {
+        "nome": "Ana",
+        "idade": 22,
+        "nacionalidade": "Portuguesa"
+    },
+    "4": {
+        "nome": "Yurina",
+        "idade": 35,
+        "nacionalidade": "Ucraniana"
+    }
+}
